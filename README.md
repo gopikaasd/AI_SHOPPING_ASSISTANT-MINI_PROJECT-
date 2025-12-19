@@ -1,4 +1,4 @@
-**Live Demo**
+**Live Demo : **
 https://ai-shopping-assistant-mini-project.vercel.app
 
 # React + Vite
